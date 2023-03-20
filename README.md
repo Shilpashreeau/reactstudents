@@ -68,18 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-function Score(props) {
-  const { scores } = props;
-  
-  return (
-
-    // <div key={scores.id}>
-    //   <h3>date:{scores.date}</h3>
-    //   <h3>score:{scores.score}</h3>
-      
-    // </div>
-    
-   
-  );
-}
-export default Score;
