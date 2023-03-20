@@ -10,13 +10,9 @@ function App() {
   
   return(
      data.map(student => <Student dataOfStudent={student}  
-       />
+       />)
       
    
-  
-  )
-  
-  
   )
    
     
